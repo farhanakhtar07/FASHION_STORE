@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #071a28;
+}
+.white{
+    color: white;
+}
+.head{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:300%;
+}
+.bar{
+    text-align: center;
+    padding: 2rem;
+    margin: 3rem;
+}
+.second{
+    text-align: end;
+    margin: 1em;
+    font-style: italic;
+    font-size: x-large;
+}
+.second h2{
+    margin: 1em;
+}
+.para{
+    text-align: end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    margin: 2em;
+}
+.type{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding: 2em;
+}
+table,tr,td{
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+.container{
+    width: 60%;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 8em;
+}
+.container th{
+    background-color: red;
+    height: 3em;
+    text-align: start;
+    padding: 5px 15px;
+}
+.container td{
+    text-align:center;
+}
+.button{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 3em;
+}
+.foot{
+    background-color: rgb(166, 107, 36);
+    padding: 2em;
+}
+.first{
+    text-align: center;
+    font-size: larger;
+}
+.sign{
+    border: 2px solid white;
+    background-color: rgb(197, 25, 54);
+    display: inline-block;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 10px;
+}
